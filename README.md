@@ -2,6 +2,7 @@
 A single-page website showcasing an advertisement for 3D rotating Coca Cola can using CSS and HTML.
 
 <h1>Screenshot</h1>
+For a better and proper view of the website, please press F11 or Fn + F11 to enter full-screen mode. This will allow you to see the 3D rotation effect in its entirety and without any distractions.
 
 ![image](https://github.com/user-attachments/assets/c97df8a0-1dff-4fda-bddb-4bacd9cb1475)
 
