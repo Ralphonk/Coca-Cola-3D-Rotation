@@ -26,6 +26,9 @@ This project uses CSS transforms and animations to create a 3D rotating effect o
 <li>Open the index.html file in a web browser to view the 3D rotating Coca Cola can.</li>
 <li>Hover over the can to see the 3D rotation effect.</li>
 
+<h1>Device Support</h1>
+Note: This project is currently optimized for desktop and laptop devices only. While it may work on mobile devices, the experience may not be ideal due to the complexity of the 3D animation. I plan to optimize the project for mobile devices in future updates.
+
 <h1>Browser Support</h1>
 This project has been tested on the following browsers:
 
